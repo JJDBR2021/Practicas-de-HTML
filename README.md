@@ -1,5 +1,5 @@
-# Practicas-de-HTML
+# Practicas-de-programacion
 
-Sitios web de practica creados con el lenguaje de HTML
+Sitios web de practica creados con diversos lenguajes de prgramacion
 
-En este archivo README demuestro mis conocimientos del lenguaje de programacion HTML .  Este codigo es de practica,  si deseas verlo ¡Bienvenido!
+En este archivo README demuestro mis conocimientos de diversos lenguajes de programacion. Estos codigos son de practicas , si desean verlos ¡Bienvenidos!
